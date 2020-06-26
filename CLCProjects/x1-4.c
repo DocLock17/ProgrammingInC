@@ -1,4 +1,5 @@
 
+
 #include <stdio.h>
 
 /* print corresponding Celsius-Farenheit table for fahr = 0,20,...300; floating-point version */
@@ -20,3 +21,4 @@ main() {
 		celsius = celsius + step;
 	}
 }
+
