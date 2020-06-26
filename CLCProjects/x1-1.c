@@ -7,6 +7,6 @@ int main (int argc, char *argv[]) {
 
   //also not printing this comment either
   printf("You are %d miles away! \n", distance);
-  printf("Now we add a second line! \n");
+  printf("Now we add a second line! Test 1. \n");
   return 0;
 }
